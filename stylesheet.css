@@ -78,12 +78,15 @@ margin-top: 60px;
   margin-top: -2.5rem;
 }
 img {
-  width: 60%;
-  height: 60%;
+  width: 30%;
+  height: 30%;
   background-color: #666;
   filter: grayscale(20%);
   transition: all 0.5s ease-in-out;
   margin-top: -0.625rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 img:hover {
   transform: scale(1.1);
