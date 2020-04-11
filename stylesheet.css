@@ -78,8 +78,8 @@ margin-top: 60px;
   margin-top: -2.5rem;
 }
 img {
-  width: 30%;
-  height: 30%;
+  width: 20%;
+  height: 20%;
   background-color: #666;
   filter: grayscale(20%);
   transition: all 0.5s ease-in-out;
@@ -111,7 +111,7 @@ h1{
   font-weight: bold;
  }
 h2{
-  font-size: 0.65rem;
+  font-size: 0.55rem;
   letter-spacing: 0.25rem;
   color: #c9c9be;
   line-height: 0.2;
